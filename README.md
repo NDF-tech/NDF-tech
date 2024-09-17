@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I'm NDF Tech Team, an AI enthusiast and the author of the ** NDF AI Tools Reviews** blog, where I explore, test, and review the latest artificial intelligence tools to help people understand and use AI more effectively. 🚀
+Hey there! I'm NDF Tech Team, an AI enthusiast and the author of the **NDF AI Tools Reviews** blog, where I explore, test, and review the latest artificial intelligence tools to help people understand and use AI more effectively. 🚀
 
 ### 🔍 What I Do
 
