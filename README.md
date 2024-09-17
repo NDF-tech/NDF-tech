@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I'm [Your Name], an AI enthusiast and the author of the **AI Tools Reviews** blog, where I explore, test, and review the latest artificial intelligence tools to help people understand and use AI more effectively. 🚀
+Hey there! I'm NDF Tech Team, an AI enthusiast and the author of the ** NDF AI Tools Reviews** blog, where I explore, test, and review the latest artificial intelligence tools to help people understand and use AI more effectively. 🚀
 
 ### 🔍 What I Do
 
@@ -16,8 +16,8 @@ I'm on a mission to make AI more accessible to everyone! Whether you're a develo
 
 Feel free to reach out or explore more about my work:
 
-- 🌐 [AI Tools Reviews Blog](https://your-blog-link.com)
-- 💬 [Twitter](https://twitter.com/your-twitter-handle)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- 🌐 [AI Tools Reviews Blog](https://nudify.tech)
+- 💬 [Twitter](https://twitter.com/Outsours_IT)
+- 💼 [LinkedIn](https://www.linkedin.com/company/ndf-tech/)
 
 Looking forward to connecting with fellow AI enthusiasts, developers, and anyone curious about artificial intelligence! 🤖✨
