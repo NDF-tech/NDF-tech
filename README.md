@@ -21,3 +21,10 @@ Feel free to reach out or explore more about our work:
 - 💼 [LinkedIn](https://www.linkedin.com/company/ndf-tech/)
 
 Looking forward to connecting with fellow AI enthusiasts, developers, and anyone curious about artificial intelligence! 🤖✨
+
+Hackathon:
+
+- [AI Tool link 1 to test](https://huggingface.co/spaces/outsourceit2day/free-undress-ai/)
+- [AI Tool link 2 to test](https://huggingface.co/spaces/outsourceit2day/free-nudify-ai-v1.0/)
+- [AI Tool link 3](https://gitlab.com/out2day/undress-image-how-identify-it)
+- [AI Tool link 4](https://dorahacks.io/buidl/16756)
